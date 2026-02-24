@@ -3,7 +3,6 @@
 ## This is a GitHub Repository for the development of a DJ-Organization Tool for DIDA 425
 
 ## Project Idea 
-<hr>
 * User Visits webpage (hosted on github pages)
 * User Accesses their spotify account using O-Auth
 * User selects playlist from their spotify library 
