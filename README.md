@@ -12,3 +12,10 @@
 * Use the collaborative filtering system to obtain similarity scores between songs and find the ordering which minimizes the total similarity differences between songs
 * Output an ordered list of songs, and convert this list back into a spotify playlist and allow user to import it back into Spotify 
 
+## Progress
+* I have set up the spotify O-Auth to be able to access my own playlists and obtain a list of song ids from the playlist, we can possible use these song IDs to pass through music ripping sites
+* Start of the frontend, have a basic html,java,css setup to start working forward 
+
+## Next Up 
+* The whole project hinges on being able to extract audio features from these out of data samples, so try and find a way to do this. 
+
