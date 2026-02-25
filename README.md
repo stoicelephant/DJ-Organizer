@@ -19,3 +19,26 @@
 ## Next Up 
 * The whole project hinges on being able to extract audio features from these out of data samples, so try and find a way to do this. 
 
+## In Progress
+* Working to more deeply understand the analysis structure
+* Were able to see that the h5 files in the million subset has the following analysis parameters (can we replicate the same using another complementary analysis tool??? )
+
+| Index | Feature Name                    |
+|-------|----------------------------------|
+| 1     | bars_confidence                 |
+| 2     | bars_start                      |
+| 3     | beats_confidence                |
+| 4     | beats_start                     |
+| 5     | sections_confidence             |
+| 6     | sections_start                  |
+| 7     | segments_confidence             |
+| 8     | segments_loudness_max           |
+| 9     | segments_loudness_max_time      |
+| 10    | segments_loudness_start         |
+| 11    | segments_pitches                |
+| 12    | segments_start                  |
+| 13    | segments_timbre                 |
+| 14    | songs                           |
+| 15    | tatums_confidence               |
+| 16    | tatums_start                    |
+
