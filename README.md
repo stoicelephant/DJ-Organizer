@@ -18,6 +18,7 @@
 
 ## Next Up 
 * The whole project hinges on being able to extract audio features from these out of data samples, so try and find a way to do this. 
+* We will be looking into Essentia, an open source library of tools for audio and music analysis
 
 ## In Progress
 * Working to more deeply understand the analysis structure
